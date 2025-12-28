@@ -1,22 +1,20 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Itz-Sidra
 
-          # === ACTIVITY OVERVIEW (THIS IS WHAT YOU WANT) ===
-          base: activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          output_action: commit
+          output_location: .
