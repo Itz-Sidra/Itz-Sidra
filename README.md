@@ -17,3 +17,8 @@ Computer Science (AIML) student • Full Stack Developer • Exploring AI/ML
 ---
 [![](https://visitcount.itsvg.in/api?id=Itz-Sidra&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📈 Activity Overview
+
+![GitHub Metrics](https://raw.githubusercontent.com/Itz-Sidra/Itz-Sidra/main/github-metrics.svg)
+
+
