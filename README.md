@@ -124,9 +124,9 @@ href="https://leetcode.com/u/itz_sidru/"><img src="https://img.shields.io/badge/
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Itz-Sidra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-three-orpin-21.vercel.app/api?username=Itz-Sidra&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-three-orpin-21.vercel.app/api/top-langs/?username=Itz-Sidra&layout=compact&theme=github_dark&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Itz-Sidra&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Sidra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
