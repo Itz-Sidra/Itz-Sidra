@@ -20,12 +20,12 @@ href="https://leetcode.com/u/itz_sidru/"><img src="https://img.shields.io/badge/
 
 ### 🧠 About Me
 
-- 🎓 B.Tech CSE (AI & ML), Vishwakarma Institute of Technology, Pune — **CGPA 9.6/10.0**
-- 🔬 AI Research Intern @ **IEEE Computational Intelligence Society (CIS), Pune Section** — worked on loan approval prediction & explainable AI
-- 💻 Former Web Development Intern @ **AMDOX Technologies**
-- 🏆 Hackathon Winner (CSI Codezilla), Runner-Up (LSE Generate Startup Competition), Top 10 Finalist (MIT ADT AI Grand Challenge)
-- 📄 2 patents filed (Republic of South Africa) in AI-driven healthcare & privacy systems, 1 research paper under review
-- 🌱 30+ open source PRs (13+ merged) across GSSOC, SWOC & WOC
+- 🎓 B.Tech in Computer Science (AI & ML), VIT Pune — **CGPA 9.6/10**
+- 🔬 AI Research Intern @ IEEE CIS Pune Section
+- 💻 Former Web Development Intern @ AMDOX Technologies
+- 🏆 Hackathon Winner • Startup Competition Runner-Up • Top 10 AI Grand Challenge Finalist
+- 📄 Two AI patents filed and one research paper under review
+- 🌱 Active Open Source Contributor across GSSOC, SWOC & WOC
 
 ---
 
@@ -70,88 +70,55 @@ href="https://leetcode.com/u/itz_sidru/"><img src="https://img.shields.io/badge/
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🦾 Surface Defect Detection for Industrial Quality Inspection</b> — <i>Ongoing</i></summary>
-<br/>
+<summary><b>🎤 Evalvate — Multimodal AI Interview Intelligence Platform</b></summary>
 
-`Python` `TensorFlow` `MobileNetV2` `OpenCV` `NumPy` `Pandas`
+- AI interview platform combining LLMs, speech analysis and computer vision.
+- Built FastAPI backend integrating Gemini API, Hume AI, DeepFace and MediaPipe.
+- Resume parsing, ATS analysis, contradiction detection and personalized coaching.
+- Runner-Up at the LSE Generate Startup Competition.
 
-- Built a computer vision system to classify defective/non-defective industrial wire surfaces using **MobileNetV2** with transfer learning
-- Implemented image preprocessing, augmentation, and dataset-splitting pipelines to reduce overfitting
-- Shipped an end-to-end inference pipeline for automated quality inspection
 </details>
 
 <details>
-<summary><b>📇 Contact Builder — AI Contact Intelligence Platform</b> — <i>Completed</i></summary>
-<br/>
+<summary><b>📇 Contact Builder — AI Contact Intelligence Platform</b></summary>
 
-`React.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Gemini API` `OCR`
+- Extracts structured contacts from resumes, business cards and PDFs.
+- OCR + NLP + Gemini API + semantic search.
+- Produces CRM-ready enriched contact profiles.
 
-- AI-powered platform extracting structured contact data from resumes, business cards & images using **Gemini API, OCR & NLP**
-- Added semantic search, contact enrichment, and confidence scoring for CRM-ready profiles
-- Built scalable backend APIs with PostgreSQL for secure document processing
 </details>
 
 <details>
-<summary><b>🎤 Evalvate — Multimodal AI Interview Intelligence Platform</b> — <i>🏆 Startup Competition Runner-Up</i></summary>
-<br/>
+<summary><b>🦾 Surface Defect Detection</b></summary>
 
-`Python` `FastAPI` `PostgreSQL` `Gemini API` `Hume AI` `DeepFace` `MediaPipe` `Next.js`
+- MobileNetV2-based industrial defect detection.
+- Image preprocessing, augmentation and automated inference pipeline.
+- Built for industrial quality inspection.
 
-- Multimodal AI interview platform combining LLMs, speech analysis & computer vision to evaluate candidates across technical, behavioral & communication dimensions
-- Built a scalable FastAPI backend integrating Gemini API, Hume AI, DeepFace & MediaPipe for adaptive questioning, resume parsing, and real-time emotion analysis
-- Designed pipelines for contradiction detection, ATS resume analysis & personalized coaching
-- End-to-end full-stack app with Next.js, MongoDB, WebSockets & JWT auth
 </details>
 
 <details>
-<summary><b>💰 Loan Approval Prediction with Explainable AI</b> — <i>🏅 Top 10, MIT ADT AI Grand Challenge</i></summary>
-<br/>
+<summary><b>💰 Loan Approval Prediction with Explainable AI</b></summary>
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `XGBoost` `Random Forest`
+- Compared Random Forest and XGBoost.
+- Used SHAP and LIME for explainable predictions.
+- Research paper under review.
 
-- Built and compared multiple ML models (Random Forest, XGBoost) for loan approval prediction
-- Applied Explainable AI techniques (SHAP/LIME) to interpret predictions and surface key approval factors
-- Basis for a research paper currently under review
-</details>
-
-<details>
-<summary><b>🗣️ Speaker Label — Audio Speaker Identification System</b> — <i>🏆 Hackathon Winner, CSI Codezilla</i></summary>
-<br/>
-
-`Python` `React.js` `PostgreSQL`
-
-- ML-based speaker identification system using audio signal processing for voice recognition
-- Built a React interface for uploading and analyzing audio samples with real-time predictions
-- Optimized the classification pipeline for improved accuracy and performance
-</details>
-
-<details>
-<summary><b>🗓️ AI Timetable Generator</b> — <i>Completed</i></summary>
-<br/>
-
-`Python` `FastAPI` `PostgreSQL` `Prisma`
-
-- Automated conflict-free timetable generation using Constraint Satisfaction & Backtracking algorithms
-- Designed REST APIs with FastAPI, integrated PostgreSQL for scheduling data
-- Implemented constraints for faculty availability, classrooms, batches & subjects
 </details>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏅 Highlights
 
-- 🥇 Hackathon Winner — CSI Codezilla 2025 (Speaker Label)
-- 🥈 Runner-Up — LSE Generate Startup Competition (Evalvate)
-- 🎯 Top 10 Finalist — MIT ADT AI Grand Challenge (Loan Approval Prediction)
-- 🌱 30+ Open Source Pull Requests (13+ merged) across GSSOC, SWOC & WOC
-- 📈 750+ contributions · 40+ LeetCode problems solved
-- **Patent:** A Machine Learning Based Prescription Scanner with Error Detection System — Republic of South Africa, App. No. 2026/05156 — *OCR · NLP · Healthcare AI · Drug Interaction Detection*
-- **Patent:** A Privacy Protection System for Personal Sensitive Information Using Local AI Redaction and Verifiable Credential (VC) Access Control — Republic of South Africa, App. No. 2025/10605 — *Edge AI · Privacy · Computer Vision · Verifiable Credentials*
-
+- 🥇 CSI Codezilla Hackathon Winner
+- 🥈 LSE Generate Startup Competition Runner-Up
+- 🎯 MIT ADT AI Grand Challenge Top 10
+- 📄 2 AI Patents Filed
+- 🌱 30+ Open Source Pull Requests
+- 💻 750+ GitHub Contributions
 
 ---
 
@@ -160,9 +127,6 @@ href="https://leetcode.com/u/itz_sidru/"><img src="https://img.shields.io/badge/
 ![](https://github-readme-stats.vercel.app/api?username=Itz-Sidra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Itz-Sidra&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Sidra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Itz-Sidra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
